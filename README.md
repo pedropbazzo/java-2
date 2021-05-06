@@ -98,7 +98,7 @@ Nome do Evento | Região Realizada
 
 ## :speech_balloon: Comunidades
 
-Nome da Comunidade | Tipo | Idioma
+Nome da Comunidade | Tipo | Idioma 
 :-- | :-- | :--
 [Brasilia Java Users Group – DFJUG](http://www.dfjug.org/o-grupo/o-dfjug/) | Site | Português
 [Grupo de Usuário de Tecnologia Oracle - GUOB](http://www.guob.com.br/) | Site | Português
